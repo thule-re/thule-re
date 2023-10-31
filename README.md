@@ -16,7 +16,7 @@ The user can zoom in and out, change the color palette and move around the fract
 
 ![fractol](./.media/fractol.png)
 
-### [cube3d](https://github.com/thule-re/cub3d)
+### [cub3d](https://github.com/thule-re/cub3d)
 A raycasting engine written in C, using the minilibx library.
 The game is based on the Wolfenstein 3D engine, but is missing some features.
 The engine is able to render a 3D maze from a given map file. 
