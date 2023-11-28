@@ -24,7 +24,7 @@ The player can move around the maze.
 
 ![cube3d](./.media/cub3d.png)
 
-### [webserv](https://github.com/thule-re/webserv) WIP
+### [webserv](https://github.com/thule-re/webserv)
 A webserver written in C++. 
 The server is able to handle GET, POST and DELETE requests, as well as CGI scripts.
 The server is able to handle multiple requests at the same time.
