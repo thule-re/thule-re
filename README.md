@@ -1,11 +1,11 @@
 ## About me
 
-My name is Thule Reeps, I'm a 21 year old student living in Germany.
-I'm studying software engineering at 42 [Wolfsburg](https://42wolfsburg.de), 
+My name is Thule Reeps, I'm a 22 year old student living in Germany.
+I finished studying software engineering at [42 Wolfsburg](https://42wolfsburg.de), 
 an innovative programming school based on peer-to-peer learning as well as project-based learning.
 
 
-I'm interested in Cybersecurity, Data Science and Game dev.
+I'm interested in Cybersecurity, Embedded Systems and Game dev.
 
 ## Projects
 
